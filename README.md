@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @teemah2006
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning advanced python
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fatimaholadipo4@gmail.com
 - 😄 Pronouns: she
