@@ -7,6 +7,7 @@ I'm a passionate **Frontend Developer** with experience in **React, Typescript a
 
 - 🌱 Currently learning: **React, React native**
 - 🔭 Working on: **![StudyEase AI](www.studyeaseai.com)**
+- 🤗 Interested in: collaborations to build impactful projects, contributing to open-source projects
 - 🌍 Languages: **English, Yoruba, HTML, Python, Javascript**
 - 📫 How to reach me: **fatimaholadipo4@gmail.com**
 - ⚡ Fun fact: **I don't really like cakes**
@@ -35,6 +36,8 @@ I'm a passionate **Frontend Developer** with experience in **React, Typescript a
 - **[Personal Website](fatimaholadipo-website.vercel.app)**
 - **[LinkedIn](www.linkedin.com/in/fatimah-oladipo-36954a309)**
 - **[Twitter](https://x.com/fatimaholadipo4?t=GLW5acoJP9sFPYbuFZwkgA&s=08)**
+
+
 
 
 
